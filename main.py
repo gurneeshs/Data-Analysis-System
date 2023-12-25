@@ -7,77 +7,77 @@ import numpy as np
 def read():
             cod=input('Enter the Code of State or Press I for Data of whole India:')
             if cod=='a1':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\andaman nicobar.csv'  ,  nrows=153)
+                        df=pd.read_csv('andaman nicobar.csv'  ,  nrows=153)
             if cod=='a2':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\andhra pradesh.csv'  ,  nrows=153)
+                        df=pd.read_csv('andhra pradesh.csv'  ,  nrows=153)
             if cod=='a3':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\arunachal pradesh.csv'  ,  nrows=153)
+                        df=pd.read_csv('arunachal pradesh.csv'  ,  nrows=153)
             if cod=='a4':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\assam.csv'  ,  nrows=153 )
+                        df=pd.read_csv('assam.csv'  ,  nrows=153 )
             if cod=='a5':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\bihar.csv'  ,  nrows=153)
+                        df=pd.read_csv('bihar.csv'  ,  nrows=153)
             if cod=='a6':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\chandigarh.csv'  ,  nrows=153)
+                        df=pd.read_csv('chandigarh.csv'  ,  nrows=153)
             if cod=='a7':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\chhatisgarh.csv'  ,  nrows=153)
+                        df=pd.read_csv('chhatisgarh.csv'  ,  nrows=153)
             if cod=='a8':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\dadar and nagar haveli.csv'  ,  nrows=153)
+                        df=pd.read_csv('dadar and nagar haveli.csv'  ,  nrows=153)
             if cod=='a9':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\delhi.csv'  ,  nrows=153)
+                        df=pd.read_csv('delhi.csv'  ,  nrows=153)
             if cod=='a10':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\goa.csv'  ,  nrows=153)
+                        df=pd.read_csv('goa.csv'  ,  nrows=153)
             if cod=='b1':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\gujrat.csv'  ,  nrows=153)
+                        df=pd.read_csv('gujrat.csv'  ,  nrows=153)
             if cod=='b2':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\haryana.csv'  ,  nrows=153)
+                        df=pd.read_csv('haryana.csv'  ,  nrows=153)
             if cod=='b3':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\himachal pradesh.csv'  ,  nrows=153)
+                        df=pd.read_csv('himachal pradesh.csv'  ,  nrows=153)
             if cod=='b4':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\jammukashmir.csv'  ,  nrows=153)
+                        df=pd.read_csv('jammukashmir.csv'  ,  nrows=153)
             if cod=='b5':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\jharkhand.csv'  ,  nrows=153)
+                        df=pd.read_csv('jharkhand.csv'  ,  nrows=153)
             if cod=='b6':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\karnataka.csv'  ,  nrows=153)
+                        df=pd.read_csv('karnataka.csv'  ,  nrows=153)
             if cod=='b7':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\kerala.csv'  ,  nrows=153)
+                        df=pd.read_csv('kerala.csv'  ,  nrows=153)
             if cod=='b8':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\ladakh.csv'  ,  nrows=153)
+                        df=pd.read_csv('ladakh.csv'  ,  nrows=153)
             if cod=='b9':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\madhyapradesh.csv'  ,  nrows=153)
+                        df=pd.read_csv('madhyapradesh.csv'  ,  nrows=153)
             if cod=='b10':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\maharashtra.csv'  ,  nrows=153)
+                        df=pd.read_csv('maharashtra.csv'  ,  nrows=153)
             if cod=='c1':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\manipur.csv'  ,  nrows=153)
+                        df=pd.read_csv('manipur.csv'  ,  nrows=153)
             if cod=='c2':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\meghalaya.csv'  ,  nrows=153)
+                        df=pd.read_csv('meghalaya.csv'  ,  nrows=153)
             if cod=='c3':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\mizoram.csv'  ,  nrows=153)
+                        df=pd.read_csv('mizoram.csv'  ,  nrows=153)
             if cod=='c4':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\nagaland.csv'  ,  nrows=153)
+                        df=pd.read_csv('nagaland.csv'  ,  nrows=153)
             if cod=='c5':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\odisha.csv'  ,  nrows=153)
+                        df=pd.read_csv('odisha.csv'  ,  nrows=153)
             if cod=='c6':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\puducherry.csv'  ,  nrows=153)
+                        df=pd.read_csv('puducherry.csv'  ,  nrows=153)
             if cod=='c7':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\punjab.csv'  ,  nrows=153)
+                        df=pd.read_csv('punjab.csv'  ,  nrows=153)
             if cod=='c8':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\rajasthan.csv'  ,  nrows=153)
+                        df=pd.read_csv('rajasthan.csv'  ,  nrows=153)
             if cod=='c9':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\sikkim.csv'  ,  nrows=153)
+                        df=pd.read_csv('sikkim.csv'  ,  nrows=153)
             if cod=='c10':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\tamilnadu.csv'  ,  nrows=153)
+                        df=pd.read_csv('tamilnadu.csv'  ,  nrows=153)
             if cod=='d1':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\telengana.csv'  ,  nrows=153)
+                        df=pd.read_csv('telengana.csv'  ,  nrows=153)
             if cod=='d2':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\tripura.csv'  ,  nrows=153)
+                        df=pd.read_csv('tripura.csv'  ,  nrows=153)
             if cod=='d3':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\uttarakhand.csv'  ,  nrows=153)
+                        df=pd.read_csv('uttarakhand.csv'  ,  nrows=153)
             if cod=='d4':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\uttarpradesh.csv'  ,  nrows=153)
+                        df=pd.read_csv('uttarpradesh.csv'  ,  nrows=153)
             if cod=='d5':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\westbengal.csv'  ,  nrows=153)
+                        df=pd.read_csv('westbengal.csv'  ,  nrows=153)
             if cod=='I' or cod=='i':
-                        df=pd.read_csv('F:\OFFICIAL PROJECTS\Data Analysis System\csv files\\India.csv'  ,  nrows=153)
+                        df=pd.read_csv('India.csv'  ,  nrows=153)
             global data
             data=df
             return data
