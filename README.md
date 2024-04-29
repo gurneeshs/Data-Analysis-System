@@ -11,9 +11,23 @@ The system fetches data from reliable sources, processes it, and provides insigh
 - Mathematical operations on data
 - User-friendly command-line interface
 
+## Glimpse of the System
+![Menu](https://github.com/gurneeshs/Data-Analysis-System/assets/99495469/a36dc679-00d9-49ec-af9f-0ee1e2a4593d)
+
+![Cities](https://github.com/gurneeshs/Data-Analysis-System/assets/99495469/62f50297-a325-42b9-8638-5733528b6eea)
+
+![manipulation](https://github.com/gurneeshs/Data-Analysis-System/assets/99495469/115f740d-7420-4629-9ffa-aff227857e09)
+
+![visualization](https://github.com/gurneeshs/Data-Analysis-System/assets/99495469/c5d0c85e-fc0f-4715-8b4a-ee499ff5e43d)
+
+![visualization result](https://github.com/gurneeshs/Data-Analysis-System/assets/99495469/dd092f91-4f8c-4121-8490-fad05db8824a)
+
+![mathematical operations](https://github.com/gurneeshs/Data-Analysis-System/assets/99495469/db9971f6-bb84-4a94-89c8-a24cb3d4ff15)
+
 ## Requirements
 - Python 3.x
-- 
+- Anaconda Navigator
+
 ## Installation
 1. Clone the repository:
     ```
